@@ -1,0 +1,3 @@
+[submodule "test-sdk/test-sdk/node_modules/sdk"]
+	path = test-sdk/test-sdk/node_modules/sdk
+	url = https://gitlab.safaricom.co.ke/web/js-sdk-rnd.git
